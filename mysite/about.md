@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Second year computer science student at the University of Adelaide.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am an aspiring software engineer who loves mathematics, problem solving and applying thoery to real world problems with a particular intrigue in new and emerging technologies. My key areas of interest are game-development, low latency programming and algorithum design. I also want to explore other areas of computer science such as AI, cyber security and web-development.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+When I am not working hard to solve problems within a project I enjoy relaxing by going on hikes, to the beach, cycling, going the the gym, playing with the cat or just watching history or space documentaries. Along with these relaxing activities I enjoy participating in coding challenges/events as they are lower stress and still allow me to exercise my problem solving and critical thinking.
+
+I am graduating in 2024 and currently looking for internship roles in software engineering to broaden my experience with technology, please feel free to get in touch.
+
+You can find my Github:
+[here][github].
+
+You can find my Linked-In:
+[here][linkedin].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[github]: https://github.com/CountQuackula
+[linkedin]: https://www.linkedin.com/in/faisal-umar/
