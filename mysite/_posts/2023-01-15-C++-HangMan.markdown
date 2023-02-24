@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "C++ HangMan"
+date:   2023-01-15 04:39:33 +1030
+categories: jekyll update
+---
+A simple hangman game developed in using C++ in WSL2 that outputs more of the graphic the closer a player is to losing. Check it out here on my [Git-Hub][github].
+
+[github]: https://github.com/CountQuackula/HangMan
