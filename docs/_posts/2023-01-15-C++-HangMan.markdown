@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "C++ HangMan"
+date:   2023-01-15 04:39:33 +1030
+categories: jekyll update
+---
+A terminal-based game of hangman made using C++ on Ubuntu and WSL. The game plays as regular hangman with 
+each guess of a letter either completing part of the word or of the graphic. Includes a line by line incremented graphic 
+rather than a gradually draw image as in traditional version of the game as well as an intuitive display of remaining 
+guesses, all guessed characters and the correct and blank characters. Check it out here on my [Git-Hub][github].
+
+[github]: https://github.com/CountQuackula/HangMan
